@@ -1,0 +1,17 @@
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MainWindow.g.cs
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\Option.g.cs
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\App.g.cs
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.cache
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.lref
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MainWindow.baml
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\Option.baml
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.g.resources
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+D:\02 Practice\2022\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
